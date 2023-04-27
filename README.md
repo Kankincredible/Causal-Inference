@@ -70,4 +70,4 @@ This section includes additional resources, such as online courses, workshops, a
 <a name="contributing"></a>
 ## Contributing
 
-We welcome contributions from the community to help expand and
+We welcome contributions from the community to help expand
